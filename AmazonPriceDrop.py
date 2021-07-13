@@ -1,6 +1,6 @@
 #!/usr/bin/python3.8
 
-#Script that will send us a push notification when there's a price drop on an Amazon product.
+#Script that will send us a push notification when there's a price drop on an Amazon product...
 #Using the Pushsafer API. 
 
 from urllib.request import Request, urlopen
